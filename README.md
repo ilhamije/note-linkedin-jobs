@@ -1,4 +1,4 @@
-# mv3-parcel-webext-template
+# NOTE LINKEDIN JOBS
 
 Chrome Extension boilerplate for manifest v3.
 <img align="right" width="128" src="src/images/icon256.png">
